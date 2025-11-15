@@ -1,0 +1,55 @@
+
+
+
+{
+   "UserID" : "newteamfp@gmail.com",
+    "Password": "test",
+    "ClientEmail": "newteamfp@gmail.com",
+    "FirstName" : "Steve",
+    "LastName" : "Summer",
+    "Gender" : "Male",
+    "MonthofBirth" :" September",
+    "YearofBirth" : "1970",
+    "HealthProfile" : "Good Health",
+    "LifeExpectancy" : "91",
+    "TobaccoUser" : "No",
+    "RetirementAge" : "55",
+    "CurrentZipcode" :"83642",
+    "RetirementZipcode" : "78745",
+    "TaxFilingStatus" : "Individual",
+    "SpouseFirstName" : "Sana",
+    "SpouseLastName" : "Summer",
+    "SpouseGender" : "Female",
+    "SpouseMonthofBirth" :" June",
+    "SpouseYearofBirth" : "1972",
+    "SpouseHealthProfile" : "Good Health",
+    "SpouseLifeExpectancy" : "93",
+    "SpouseTobaccoUser" : "No",
+    "SpouseRetirementAge" : "55",
+    "SpouseCurrentZipcode" :"83642",
+    "SpouseRetirementZipcode" : "78745",
+    "PlantypePrimary" : "Gold | EPO",
+    "PlantypeSpouse" : "Gold | EPO",
+    "QualityofCarePrimary": "Comfortable",
+    "YearsofAdultDayCarePrimary" : "1",
+    "YearsofIn-HomeCarePrimary" :"1",
+    "YearsofNursingHomeCarePrimary" :"1",
+    "QualityofCareSpouse" : "Comfortable",
+    "YearsofAdultDayCareSpouse" : "1",
+    "YearsofIn-HomeCareSpouse" :"1",
+    "YearsofNursingHomeCareSpouse" :"1",
+    "%ofHealthcareGoaltoFundPrimary" : "100",
+    "PVforexpensesnotfundedPrimary" : "0",
+    "CurrentSavingsAllocatedtoHealthcarePrimary" : "0",
+    "YearstoSavePrimary" : "10",
+    "InvestmentProfilePrimary" : "Moderate (5.5%)",
+    "%ofHealthcareGoaltoFundSpouse" : "100",
+    "PVforexpensesnotfundedSpouse" : "0",
+    "CurrentSavingsAllocatedtoHealthcareSpouse" : "0",
+    "YearstoSaveSpouse" : "10",
+    "InvestmentProfileSpouse" : "Moderate (5.5%)" 
+
+
+}
+
+    
